@@ -1,6 +1,5 @@
-### Hi there 👋
-
 ### Hi there! 👋
+
 I'm Shivani Reddy Aleti, a passionate Full Stack Developer dedicated to crafting seamless and user-friendly web applications. With a Master’s in Computers & Information Science from the University of Texas at Arlington, I bring a wealth of knowledge and expertise to every project I undertake.
 
 🚀 Currently, I'm honing my skills at Sarithm, where I'm involved in building innovative solutions for trucking logistics. My expertise lies in JavaScript, ReactJS, AngularJS, and SQL, among other technologies.
