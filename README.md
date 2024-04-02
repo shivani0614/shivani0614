@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Hi there! 👋
+I'm Shivani Reddy Aleti, a passionate Full Stack Developer dedicated to crafting seamless and user-friendly web applications. With a Master’s in Computers & Information Science from the University of Texas at Arlington, I bring a wealth of knowledge and expertise to every project I undertake.
+
+🚀 Currently, I'm honing my skills at Sarithm, where I'm involved in building innovative solutions for trucking logistics. My expertise lies in JavaScript, ReactJS, AngularJS, and SQL, among other technologies.
+
+💡 Let's connect on LinkedIn and explore my projects on GitHub! I'm always excited to collaborate and innovate.
+
+Looking forward to connecting with you! 😊
+
 <!--
 **shivani0614/shivani0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
