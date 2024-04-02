@@ -4,7 +4,7 @@ I'm Shivani Reddy Aleti, a passionate Full Stack Developer dedicated to crafting
 
 🚀 Currently, I'm honing my skills at Sarithm, where I'm involved in building innovative solutions for trucking logistics. My expertise lies in JavaScript, ReactJS, AngularJS, and SQL, among other technologies.
 
-💡 Let's connect on LinkedIn and explore my projects on GitHub! I'm always excited to collaborate and innovate.
+💡 Let's connect on LinkedIn : https://www.linkedin.com/in/shivani-1406-reddy/ and explore my projects on GitHub! I'm always excited to collaborate and innovate.
 
 Looking forward to connecting with you! 😊
 
